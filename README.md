@@ -47,5 +47,5 @@ The anaylysis of the election show that:
 
 Election-Audit Summary: 
 
-This script can be used for any elections with some modifications, for example in other elections there might be columns for further sub categories of counties which will require a seprate dictionary and analysis in out script. 
+This script can be used for any election with some modifications, for example in other elections there might be columns for further sub categories of counties which will require a seprate dictionary and analysis(leading to further modifications in the script). 
 
